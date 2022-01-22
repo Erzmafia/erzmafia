@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Android App which uses Machinelearning models and OpenCV
+- 🔭 I’m currently working on Android App which uses Machine Learning Model and OpenCV
 - 🌱 I’m currently learning Flutter and Android Development
 - 📫 How to reach me: [Twitter - @KamL4126](https://twitter.com/KamL4126), [Linkedin - @Kamall4126](https://www.linkedin.com/in/kamall4126/)
 - 😄 Pronouns: He/His
